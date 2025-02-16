@@ -1,0 +1,6 @@
+discord.py>=2.3.2
+customtkinter>=5.2.1
+Pillow>=10.1.0
+googletrans==3.1.0a0
+
+-- requirements for Python modules for the program, it is not necessary to download them, but if necessary, download them.
